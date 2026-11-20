@@ -1,5 +1,7 @@
 # bricks
 
+> **Moved.** The bricks now live in [p0g-stack/p0g at `bricks/`](https://github.com/p0g-stack/p0g/tree/main/bricks) and `p0g_lints` in `pkgs/p0g_lints`, with this history imported. Add them with `--git-url https://github.com/p0g-stack/p0g --git-path bricks/<brick> --git-ref p0g-v<x.y.z>`. This repository is archived; commits pinned by existing consumers stay available.
+
 > Formerly `template-app`.
 
 [Mason](https://pub.dev/packages/mason) bricks for p0g-stack apps. Platform
